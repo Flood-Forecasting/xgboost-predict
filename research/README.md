@@ -1,2 +1,2 @@
 # About
-This folder contains some of the research we completed, in pdf format.
+This folder contains some of the research we completed, in pdf format and markdown.
